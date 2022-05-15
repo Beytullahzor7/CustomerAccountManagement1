@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Node JS ###
+node_modules/
+.idea/
+account-frontend/.idea/
+account-frontend/node_modules/
